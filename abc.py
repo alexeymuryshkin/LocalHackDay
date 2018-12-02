@@ -1,5 +1,5 @@
 # I am Alex
-print("Hello, World!")
+print("Hello, Python!!!")
 a = int(input())
 b = int(input())
 print(a * b)
